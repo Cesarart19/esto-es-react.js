@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Cesarart19/esto-es-react.js/static/css/main.fda1eda9.css",
-    "main.js": "/Cesarart19/esto-es-react.js/static/js/main.3fb781db.js",
-    "index.html": "/Cesarart19/esto-es-react.js/index.html",
-    "main.fda1eda9.css.map": "/Cesarart19/esto-es-react.js/static/css/main.fda1eda9.css.map",
-    "main.3fb781db.js.map": "/Cesarart19/esto-es-react.js/static/js/main.3fb781db.js.map"
+    "main.css": "/esto-es-react.js/static/css/main.fda1eda9.css",
+    "main.js": "/esto-es-react.js/static/js/main.3fb781db.js",
+    "index.html": "/esto-es-react.js/index.html",
+    "main.fda1eda9.css.map": "/esto-es-react.js/static/css/main.fda1eda9.css.map",
+    "main.3fb781db.js.map": "/esto-es-react.js/static/js/main.3fb781db.js.map"
   },
   "entrypoints": [
     "static/css/main.fda1eda9.css",
